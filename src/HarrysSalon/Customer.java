@@ -31,7 +31,6 @@ public class Customer {
         ArrayList<Customer> list = new ArrayList<>();
         list.add(c1);
         list.add(c2);
-
         for (Customer c: list) {
             System.out.println(c);
         }
